@@ -1,2 +1,3 @@
 class assignment
 second line
+third change
